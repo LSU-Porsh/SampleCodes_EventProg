@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\bin\Debug\Project03.3.exe.config
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\bin\Debug\Project03.3.exe
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\bin\Debug\Project03.3.pdb
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03.3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03._3.LoginForm.resources
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03._3.Form2.resources
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03._3.Properties.Resources.resources
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03.3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03.3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03.3.exe
+C:\Users\User\source\repos\Event Programming Projects\Project03.3\Project03.3\obj\Debug\Project03.3.pdb

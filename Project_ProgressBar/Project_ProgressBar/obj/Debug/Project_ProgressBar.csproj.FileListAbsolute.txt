@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\bin\Debug\Project_ProgressBar.exe.config
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\bin\Debug\Project_ProgressBar.exe
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\bin\Debug\Project_ProgressBar.pdb
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.Form1.resources
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.Properties.Resources.resources
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.exe
+C:\Users\User\source\repos\Event Programming Projects\Project_ProgressBar\Project_ProgressBar\obj\Debug\Project_ProgressBar.pdb

@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\Prelim\Prelim\bin\Debug\Prelim.exe.config
+C:\Users\User\source\repos\Prelim\Prelim\bin\Debug\Prelim.exe
+C:\Users\User\source\repos\Prelim\Prelim\bin\Debug\Prelim.pdb
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.Info.resources
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.SignUp.resources
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.DashBoard.resources
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.Properties.Resources.resources
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.exe
+C:\Users\User\source\repos\Prelim\Prelim\obj\Debug\Prelim.pdb
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\bin\Debug\Prelim.exe.config
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\bin\Debug\Prelim.exe
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\bin\Debug\Prelim.pdb
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.Info.resources
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.SignUp.resources
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.DashBoard.resources
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.Properties.Resources.resources
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.exe
+C:\Users\User\source\repos\Event Programming Projects\PrelimProject\Prelim\obj\Debug\Prelim.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Event Programming Projects\Project02\Project02\obj\Debug\net6.0-windows\Project01_SimpleUI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Programming Projects\Project02\Project02\obj\Debug\net6.0-windows\Project02.Form1.resources
+C:\Users\User\source\repos\Event Programming Projects\Project02\Project02\obj\Debug\net6.0-windows\Project01_SimpleUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Programming Projects\Project02\Project02\obj\Debug\net6.0-windows\Project01_SimpleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Event Programming Projects\Project02\Project02\obj\Debug\net6.0-windows\Project01_SimpleUI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Event Programming Projects\Project02\Project02\obj\Debug\net6.0-windows\Project01_SimpleUI.AssemblyInfo.cs
+C:\Users\User\source\repos\Event Programming Projects\Project02\Project02\obj\Debug\net6.0-windows\Project01_SimpleUI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\bin\Debug\1st_Project.exe.config
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\bin\Debug\1st_Project.exe
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\bin\Debug\1st_Project.pdb
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\obj\Debug\1st_Project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\obj\Debug\_1st_Project.Form1.resources
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\obj\Debug\_1st_Project.Properties.Resources.resources
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\obj\Debug\1st_Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\obj\Debug\1st_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\obj\Debug\1st_Project.exe
+C:\Users\User\source\repos\Event Programming Projects\1st_Project\1st_Project\obj\Debug\1st_Project.pdb

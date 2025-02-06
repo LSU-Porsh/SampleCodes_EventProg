@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\bin\Debug\Midterm_EventMngmt.exe.config
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\bin\Debug\Midterm_EventMngmt.exe
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\bin\Debug\Midterm_EventMngmt.pdb
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.Form1.resources
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.Properties.Resources.resources
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.exe
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.pdb
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.EventInfo.resources
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.EventView.resources
+C:\Users\User\source\repos\Event Programming Projects\EventMngmt\Midterm_EventMngmt\obj\Debug\Midterm_EventMngmt.LogIn.resources

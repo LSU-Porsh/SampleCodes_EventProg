@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\bin\Debug\Project_Timer.exe.config
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\bin\Debug\Project_Timer.exe
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\bin\Debug\Project_Timer.pdb
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.Form1.resources
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.Properties.Resources.resources
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.exe
+C:\Users\User\source\repos\Event Programming Projects\Project_Timer\Project_Timer\obj\Debug\Project_Timer.pdb
