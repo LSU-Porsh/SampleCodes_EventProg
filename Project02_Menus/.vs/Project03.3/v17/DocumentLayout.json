@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|c:\\users\\user\\source\\repos\\event programming projects\\project02_menus\\project03.3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|solutionrelative:project03.3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\project03.3\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|solutionrelative:project03.3\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\project03.3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|solutionrelative:project03.3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|c:\\users\\user\\source\\repos\\event programming projects\\project02_menus\\project03.3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|solutionrelative:project03.3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\project03.3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B067C428-191C-4D1C-BF90-6650455F86C4}|Project03.3\\Project03.3.csproj|solutionrelative:project03.3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\Form2.cs",
+              "RelativeDocumentMoniker": "Project03.3\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\Form2.cs [Design]*",
+              "RelativeToolTip": "Project03.3\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:20:12.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\LogInForm.cs",
+              "RelativeDocumentMoniker": "Project03.3\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\LogInForm.cs",
+              "RelativeToolTip": "Project03.3\\LogInForm.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:36:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\LogInForm.cs",
+              "RelativeDocumentMoniker": "Project03.3\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\LogInForm.cs [Design]",
+              "RelativeToolTip": "Project03.3\\LogInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:36:24.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\Form2.cs",
+              "RelativeDocumentMoniker": "Project03.3\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\Form2.cs*",
+              "RelativeToolTip": "Project03.3\\Form2.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:36:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\LogInForm.Designer.cs",
+              "RelativeDocumentMoniker": "Project03.3\\LogInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Event Programming Projects\\Project02_Menus\\Project03.3\\LogInForm.Designer.cs",
+              "RelativeToolTip": "Project03.3\\LogInForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:36:24.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
